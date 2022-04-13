@@ -1,4 +1,5 @@
 ### olá, me chamo João Matheus
+sou estudante de analise e desenvolimento de sistemas e estou cursando o certified tech developer da Digital-house
 
 Bem vindo ao meu perfil do github
 
