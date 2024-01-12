@@ -1,17 +1,19 @@
 ### Olá, me chamo João Matheus
-sou estudante de analise e desenvolimento de sistemas e estou cursando o certified tech developer da Digital-house
+Em desenvolvimento na área da programação, atualmente estou fazendo o curso de Desenvolvedor Full Stack Java da EBAC, onde estou aprendendo e me aperfeiçoando nas linguagens javascript e java, cursei 3° semestres de analise e desenvolvimento de sistemas e atualmente estou no 2° semestre de ciencias da computação.
 
 Bem vindo ao meu perfil do github
     
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/Matheuslazaro13">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuslazaro13&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheuslazaro13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
 
 <h2>tecnologias e ferramentas</h2>
+
 <HR>
+
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
